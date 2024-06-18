@@ -137,4 +137,3 @@ npx hardhat test
 This project is licensed under the MIT License.
 ```
 
-Feel free to modify this README.md according to the specifics and additional details of your project.
